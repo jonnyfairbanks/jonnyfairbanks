@@ -3,15 +3,15 @@
 
 **I am a web developer and I**
 
-> _enjoys using_:
+> _enjoy_:
 > Ruby, Vim and NeoVim, Tmux, linux, and a plain old terminal
 >
-> _knows_:
+> _know_:
 > HTML, CSS, JS, SQL, Python, Docker, Bash, Git, Some C & C++, Arduino
 >
-> _wants to_: 
+> _want to_: 
 > Learn functional programing, and contribute more to FOSS
 >
-> _is_: Never afraid of a challenge and learning new tricks
+> _am_: Never afraid of a challenge and learning new tricks
 
 Thanks for looking! 
