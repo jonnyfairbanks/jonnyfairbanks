@@ -4,7 +4,7 @@
 **I am a web developer that**
 
 > _enjoys using_:
-> Ruby, Vim and NeoVim, Tmux, linux, a barebones terminal
+> Ruby, Vim and NeoVim, Tmux, linux, and a plain old terminal
 >
 > _knows_:
 > HTML, CSS, JS, SQL, Python, Docker, Bash, Git, Some C & C++, Arduino
