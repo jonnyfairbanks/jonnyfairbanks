@@ -12,6 +12,6 @@
 > _want to_: 
 > Learn functional programing, and contribute more to FOSS
 >
-> _am_: Never afraid of a challenge and learning new tricks
+> _am_: **Self taught** and never afraid of a challenge and learning new tricks
 
 Thanks for looking! 
