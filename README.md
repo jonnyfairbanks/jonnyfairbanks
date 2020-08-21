@@ -1,7 +1,7 @@
 ### Hi, I'm Jonathan 👋
 > but everyone calls me Jonny
 
-**I am a web developer that**
+**I am a web developer and I**
 
 > _enjoys using_:
 > Ruby, Vim and NeoVim, Tmux, linux, and a plain old terminal
