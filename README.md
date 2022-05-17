@@ -6,7 +6,7 @@
 > Ruby, Vim and NeoVim, Tmux, linux, and a plain old terminal
 >
 > _know_:
-> HTML, CSS, JS, SQL, Python, Docker, Bash, Git, Some C & C++, Arduino, AWS
+> Java, HTML, CSS, JS, SQL, Python, Docker, Bash, Git, Some C & C++, Arduino, AWS
 >
 > _want to_: 
 > Learn functional programing, and contribute more to FOSS
